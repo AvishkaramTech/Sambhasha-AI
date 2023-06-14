@@ -1,0 +1,242 @@
+{
+  "_f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08_a:1KsAzv9b5ZT5hcyZjiq0xhx6TF_p48DfqeZbapFg727LkCHUutxWLmvdrvGnYuoNaOjAtYrEtIFBi-nofJxZdfAEqwT02TnX4x4BxAdSL4XzubjNP1MAE7MkseyoF9MXo": {
+    "ActivityId": "1684993400252",
+    "User": {
+      "Id": "29:1KU9wZI05dm5FHybZUjpw9R9YK5G60FQMdM71KSa7f67XZL4FoxvOCMdfMaUTIpj4ylDW2P6g-jlatnmW9cWAKg",
+      "Name": "Nischit Gautam",
+      "AadObjectId": "8613945d-5f2e-4d10-b240-b793186710b2",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:1e07667f-a9e6-431b-9797-9bf03bb719d9",
+      "Name": "LawToolBotDev1",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": null,
+      "ConversationType": "personal",
+      "Id": "a:1KsAzv9b5ZT5hcyZjiq0xhx6TF_p48DfqeZbapFg727LkCHUutxWLmvdrvGnYuoNaOjAtYrEtIFBi-nofJxZdfAEqwT02TnX4x4BxAdSL4XzubjNP1MAE7MkseyoF9MXo",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/in/"
+  },
+  "_f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08_19:ZEdkUO9dIu5B9CtkOFERLUV-hPglt03sJvQUTMAaKOc1@thread.tacv2": {
+    "ActivityId": "f:80028be3-cd90-3df6-9b65-ba9421f29b50",
+    "User": {
+      "Id": "29:1Y-ucUSrp4GWAxJMC1dKsxrjNeMQa6Vnk6C-u2IpvGgWsjnFmT4xQPCiKC_30enbBeIE5c-yBm_oEmxWxz1yD2Q",
+      "Name": null,
+      "AadObjectId": "8613945d-5f2e-4d10-b240-b793186710b2",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:de305138-94e3-490a-94d5-14a45057bbf5",
+      "Name": "nischit-test",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": true,
+      "ConversationType": "channel",
+      "Id": "19:ZEdkUO9dIu5B9CtkOFERLUV-hPglt03sJvQUTMAaKOc1@thread.tacv2",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/in/"
+  },
+  "_f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08_a:1kKrbzW-PbtFJXvaDF0jd7n7FJZAuZWghcvq5oiy7Oe1kWff8DPX0AvO6NBl-wa1sQbVGOLDcyDdsYsyOIF0QKNFnZTSoDvj664VCKfFCFoWjZxRJShncj4f8B4prOyT3": {
+    "ActivityId": "1685510732027",
+    "User": {
+      "Id": "29:1Y-ucUSrp4GWAxJMC1dKsxrjNeMQa6Vnk6C-u2IpvGgWsjnFmT4xQPCiKC_30enbBeIE5c-yBm_oEmxWxz1yD2Q",
+      "Name": "Nischit Gautam",
+      "AadObjectId": "8613945d-5f2e-4d10-b240-b793186710b2",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:de305138-94e3-490a-94d5-14a45057bbf5",
+      "Name": "nischit-test",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": null,
+      "ConversationType": "personal",
+      "Id": "a:1kKrbzW-PbtFJXvaDF0jd7n7FJZAuZWghcvq5oiy7Oe1kWff8DPX0AvO6NBl-wa1sQbVGOLDcyDdsYsyOIF0QKNFnZTSoDvj664VCKfFCFoWjZxRJShncj4f8B4prOyT3",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/in/"
+  },
+  "_99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae_19:B_DxKdfnbFR6wWe0KPBgKjrD1tO_snGUhzqmHtgIk9g1@thread.tacv2": {
+    "ActivityId": "1685520080750",
+    "User": {
+      "Id": "29:1iTH6rMs8nHNS2nzKd6AtBG4h8ruBiHCJesu-8SZkSuENxORUNbOclpwY99eAhgjIA9TseeO8W88Z-s7KMRljCg",
+      "Name": "Nischit Gautam",
+      "AadObjectId": "eb2d2c1d-41b9-4ee8-a2fd-b0c3e3711850",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:de305138-94e3-490a-94d5-14a45057bbf5",
+      "Name": "nischit-test",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": true,
+      "ConversationType": "channel",
+      "Id": "19:B_DxKdfnbFR6wWe0KPBgKjrD1tO_snGUhzqmHtgIk9g1@thread.tacv2",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/apac/"
+  },
+  "_99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae_19:59d3ca7d123748b997e900aba4135ca3@thread.v2": {
+    "ActivityId": "f:b740007a-6625-236a-3547-1d8c992e2e97",
+    "User": {
+      "Id": "29:1iTH6rMs8nHNS2nzKd6AtBG4h8ruBiHCJesu-8SZkSuENxORUNbOclpwY99eAhgjIA9TseeO8W88Z-s7KMRljCg",
+      "Name": null,
+      "AadObjectId": "eb2d2c1d-41b9-4ee8-a2fd-b0c3e3711850",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:de305138-94e3-490a-94d5-14a45057bbf5",
+      "Name": "nischit-test",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": true,
+      "ConversationType": "groupChat",
+      "Id": "19:59d3ca7d123748b997e900aba4135ca3@thread.v2",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/apac/"
+  },
+  "_f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08_19:8613945d-5f2e-4d10-b240-b793186710b2_c2adc468-dfa4-4001-8339-50d9606918f0@unq.gbl.spaces": {
+    "ActivityId": "f:20e38f86-22d7-4f99-e9d2-d570419f62c5",
+    "User": {
+      "Id": "29:1Y-ucUSrp4GWAxJMC1dKsxrjNeMQa6Vnk6C-u2IpvGgWsjnFmT4xQPCiKC_30enbBeIE5c-yBm_oEmxWxz1yD2Q",
+      "Name": null,
+      "AadObjectId": "8613945d-5f2e-4d10-b240-b793186710b2",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:de305138-94e3-490a-94d5-14a45057bbf5",
+      "Name": "nischit-test",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": true,
+      "ConversationType": "groupChat",
+      "Id": "19:8613945d-5f2e-4d10-b240-b793186710b2_c2adc468-dfa4-4001-8339-50d9606918f0@unq.gbl.spaces",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "f4dd3dce-e2b7-44fe-8faf-3507a3e3ca08"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/in/"
+  },
+  "_99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae_19:It4sO532ovLh5bJ_RAVRBfryzVGvBWDgyZgUcaZPQ0A1@thread.tacv2": {
+    "ActivityId": "f:c21a8fc2-29f4-8854-959b-1bd125f8489e",
+    "User": {
+      "Id": "29:1iTH6rMs8nHNS2nzKd6AtBG4h8ruBiHCJesu-8SZkSuENxORUNbOclpwY99eAhgjIA9TseeO8W88Z-s7KMRljCg",
+      "Name": null,
+      "AadObjectId": "eb2d2c1d-41b9-4ee8-a2fd-b0c3e3711850",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:de305138-94e3-490a-94d5-14a45057bbf5",
+      "Name": "nischit-test",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": true,
+      "ConversationType": "channel",
+      "Id": "19:It4sO532ovLh5bJ_RAVRBfryzVGvBWDgyZgUcaZPQ0A1@thread.tacv2",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/apac/"
+  },
+  "_99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae_19:tRIu2hDo4UuuGihl3wyj9mMv0UewPUQ32AuwDsv24kE1@thread.tacv2": {
+    "ActivityId": "f:f9bc5143-f755-b9bb-da8e-bfd22730c1f0",
+    "User": {
+      "Id": "29:1iTH6rMs8nHNS2nzKd6AtBG4h8ruBiHCJesu-8SZkSuENxORUNbOclpwY99eAhgjIA9TseeO8W88Z-s7KMRljCg",
+      "Name": null,
+      "AadObjectId": "eb2d2c1d-41b9-4ee8-a2fd-b0c3e3711850",
+      "Properties": {},
+      "Role": null
+    },
+    "Bot": {
+      "Id": "28:de305138-94e3-490a-94d5-14a45057bbf5",
+      "Name": "nischit-test",
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null
+    },
+    "Conversation": {
+      "IsGroup": true,
+      "ConversationType": "channel",
+      "Id": "19:tRIu2hDo4UuuGihl3wyj9mMv0UewPUQ32AuwDsv24kE1@thread.tacv2",
+      "Name": null,
+      "AadObjectId": null,
+      "Properties": {},
+      "Role": null,
+      "TenantId": "99bcec1a-1a8c-4464-8d5a-7f4a2ef8f5ae"
+    },
+    "ChannelId": "msteams",
+    "Locale": "en-US",
+    "ServiceUrl": "https://smba.trafficmanager.net/apac/"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "lTqSPJaXCOuqNpTftkdJnfxWovbWj+dFbEX/0CGRmew=",
+  "Source": "AISuggestionAvish",
+  "BasePath": "_content/AISuggestionAvish",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AISuggestionAvish\\wwwroot",
+      "Source": "AISuggestionAvish",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Avishkaram\\AILinkSuggestion\\TeamsHackathonTest\\wwwroot\\",
+      "BasePath": "_content/AISuggestionAvish",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\acer\\.nuget\\packages\\microsoft.teamsfx\\2.0.0\\contentFiles\\any\\net6.0\\wwwroot\\jsInterop.js",
+      "SourceId": "AISuggestionAvish",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Avishkaram\\AILinkSuggestion\\TeamsHackathonTest\\wwwroot\\",
+      "BasePath": "_content/AISuggestionAvish",
+      "RelativePath": "jsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\acer\\.nuget\\packages\\microsoft.teamsfx\\2.0.0\\contentFiles\\any\\net6.0\\wwwroot\\jsInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\acer\\.nuget\\packages\\microsoft.teamsfx\\2.0.0\\staticwebassets\\jsInterop.js",
+      "SourceId": "Microsoft.TeamsFx",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\acer\\.nuget\\packages\\microsoft.teamsfx\\2.0.0\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.TeamsFx",
+      "RelativePath": "jsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\acer\\.nuget\\packages\\microsoft.teamsfx\\2.0.0\\staticwebassets\\jsInterop.js"
+    }
+  ]
+}

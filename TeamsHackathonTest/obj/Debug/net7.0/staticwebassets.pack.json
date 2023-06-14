@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\.nuget\\packages\\microsoft.teamsfx\\2.0.0\\contentFiles\\any\\net6.0\\wwwroot\\jsInterop.js",
+      "PackagePath": "staticwebassets\\jsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AISuggestionAvish.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AISuggestionAvish.props",
+      "PackagePath": "build\\AISuggestionAvish.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AISuggestionAvish.props",
+      "PackagePath": "buildMultiTargeting\\AISuggestionAvish.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AISuggestionAvish.props",
+      "PackagePath": "buildTransitive\\AISuggestionAvish.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

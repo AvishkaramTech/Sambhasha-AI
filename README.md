@@ -1,33 +1,21 @@
-TagMyFav, the innovative bookmarking manager in Microsoft 365 has an advanced AI that transforms the way teams collaborate and conduct research. 
+Sambhasha AI by Avishkaram Technologies is based in Microsoft Teams. 
 
  
 
-Seamlessly integrated within Microsoft Teams, TagMyFav now enables users to engage in conversation with the AI and request web links, which are swiftly curated and enlisted during the conversation. Users are able to bookmark those link with "Add Bookmark" button available with every individual link TagMyFav AI provided. 
+Sambhasha AI listens, tracks and read conversations to assign tasks, provide help and summarize the conversation between team members in an organization. 
 
  
 
-With this powerful AI capability, TagMyFav revolutionizes knowledge management, research, and development for teams across diverse industries, unleashing boundless possibilities. 
+Sambhasha AI helps with Active Listening, where you can command the AI for help between conversation and it will provide you with links to resources, as it will be listening the conversation and understand what you are asking for. 
 
  
 
-How to ask the TagMyFav AI for links: 
+It also helps with summarizing conversation, this functions needs to be activated at the beginning of conversation, where the AI actively reads over every message and at the end summarizes the conversation when asked for. 
 
  
 
-To ask the TagMyFav AI for links, simply type a query. 
+Sambhasha AI assists in adding particular tasks between conversation when someone is assigned during the talk. If you also state in a message that you'll be looking over one particular issue in conversation, Sambhasha AI will add that task in your Microsoft Planner. 
 
  
 
-For example, you could type "provide me with links of best marketing research papers" or "what are the links of top open source software projects." The AI will then search for and return links that match your query. 
-
- 
-
-Here are some examples of queries that you can use to ask the TagMyFav AI for links:
-
-Best marketing research papers
-Top open source software projects
-Latest news articles about AI
-Most popular books about machine learning
-Upcoming conferences on data science
-
-The TagMyFav AI can understand a wide range of queries, so you can be creative with your requests. The more specific your query, the more likely the TagMyFav AI is to return relevant results.
+Besides that, Sambhasha AI can also assist you with Questions/Answers Feature where you can ask any questions and the AI will answer it.
